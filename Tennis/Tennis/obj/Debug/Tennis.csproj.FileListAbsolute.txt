@@ -1,0 +1,16 @@
+C:\Users\ppeirano\source\repos\Tennis\Tennis\bin\Debug\Tennis.exe.config
+C:\Users\ppeirano\source\repos\Tennis\Tennis\bin\Debug\Tennis.exe
+C:\Users\ppeirano\source\repos\Tennis\Tennis\bin\Debug\Tennis.pdb
+C:\Users\ppeirano\source\repos\Tennis\Tennis\obj\Debug\Tennis.csproj.AssemblyReference.cache
+C:\Users\ppeirano\source\repos\Tennis\Tennis\obj\Debug\Tennis.csproj.SuggestedBindingRedirects.cache
+C:\Users\ppeirano\source\repos\Tennis\Tennis\obj\Debug\Tennis.csproj.CoreCompileInputs.cache
+C:\Users\ppeirano\source\repos\Tennis\Tennis\obj\Debug\Tennis.exe
+C:\Users\ppeirano\source\repos\Tennis\Tennis\obj\Debug\Tennis.pdb
+C:\Users\plpei\Desktop\Tennis\Tennis\obj\Debug\Tennis.exe
+C:\Users\plpei\Desktop\Tennis\Tennis\obj\Debug\Tennis.pdb
+C:\Users\plpei\Desktop\Tennis\Tennis\bin\Debug\Tennis.exe.config
+C:\Users\plpei\Desktop\Tennis\Tennis\bin\Debug\Tennis.exe
+C:\Users\plpei\Desktop\Tennis\Tennis\bin\Debug\Tennis.pdb
+C:\Users\plpei\Desktop\Tennis\Tennis\obj\Debug\Tennis.csproj.AssemblyReference.cache
+C:\Users\plpei\Desktop\Tennis\Tennis\obj\Debug\Tennis.csproj.SuggestedBindingRedirects.cache
+C:\Users\plpei\Desktop\Tennis\Tennis\obj\Debug\Tennis.csproj.CoreCompileInputs.cache
